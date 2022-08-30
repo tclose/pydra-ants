@@ -17,8 +17,8 @@
             "console": "integratedTerminal",
             "justMyCode": false,
             "args": [
-                "-i", "Registration",
-                "-m", "registration"
+                "-i", "N4BiasFieldCorrection",
+                "-m", "segmentation"
             ]
         }
     ]
